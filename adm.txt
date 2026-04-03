@@ -1,4 +1,6 @@
 hello world!
 print "hello world!"
 
-stuady berry hard it's 문법이 맞나 ?
+수정을 해본다 이렇게 저렇게 아무렇게 
+이렇게 저렇게 말이다.
+아무튼 충돌이 나야함.
