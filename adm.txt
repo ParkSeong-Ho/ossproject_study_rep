@@ -1,2 +1,4 @@
 hello world!
 print "hello world!"
+
+stuady berry hard it's 문법이 맞나 ?
